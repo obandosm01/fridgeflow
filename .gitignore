@@ -1,0 +1,7 @@
+#node
+/ff-front/node_modules
+
+#env
+
+#logs
+*.log
